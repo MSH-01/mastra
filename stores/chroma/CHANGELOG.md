@@ -1,5 +1,18 @@
 # @mastra/chroma
 
+## 0.2.0-alpha.5
+
+### Minor Changes
+
+- 8bee68a: Added implementations to support new operations for MastraVector interface for chroma store
+
+### Patch Changes
+
+- 9e81f35: Fix query filter for vector search and rerank
+- Updated dependencies [dfbe4e9]
+- Updated dependencies [9e81f35]
+  - @mastra/core@0.5.0-alpha.5
+
 ## 0.1.8-alpha.4
 
 ### Patch Changes

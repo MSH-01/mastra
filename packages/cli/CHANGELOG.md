@@ -1,5 +1,18 @@
 # mastra
 
+## 0.2.9-alpha.5
+
+### Patch Changes
+
+- 91d2e30: Fix init in non npm project
+- af7466e: fixes in playground ui
+- a80bdaf: persist data in run tab in dev
+- 9035565: Update tools dev playground inputs for different fieldtypes
+- Updated dependencies [dfbe4e9]
+- Updated dependencies [9e81f35]
+  - @mastra/core@0.5.0-alpha.5
+  - @mastra/deployer@0.1.8-alpha.5
+
 ## 0.2.9-alpha.4
 
 ### Patch Changes

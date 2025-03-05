@@ -1,5 +1,14 @@
 # @mastra/rag
 
+## 0.1.8-alpha.5
+
+### Patch Changes
+
+- 9e81f35: Fix query filter for vector search and rerank
+- Updated dependencies [dfbe4e9]
+- Updated dependencies [9e81f35]
+  - @mastra/core@0.5.0-alpha.5
+
 ## 0.1.8-alpha.4
 
 ### Patch Changes

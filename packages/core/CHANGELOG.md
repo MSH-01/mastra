@@ -1,5 +1,15 @@
 # @mastra/core
 
+## 0.5.0-alpha.5
+
+### Minor Changes
+
+- dfbe4e9: Added new looping constructs with while/until and optional enum-based cyclical condition execution
+
+### Patch Changes
+
+- 9e81f35: Fix query filter for vector search and rerank
+
 ## 0.5.0-alpha.4
 
 ### Patch Changes

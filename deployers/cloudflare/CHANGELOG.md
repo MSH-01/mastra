@@ -1,5 +1,15 @@
 # @mastra/deployer-cloudflare
 
+## 0.1.8-alpha.5
+
+### Patch Changes
+
+- fe11c20: have cloudflare wrangler point to correct entry point file
+- Updated dependencies [dfbe4e9]
+- Updated dependencies [9e81f35]
+  - @mastra/core@0.5.0-alpha.5
+  - @mastra/deployer@0.1.8-alpha.5
+
 ## 0.1.8-alpha.4
 
 ### Patch Changes
